@@ -19,8 +19,4 @@ CarDekho Used Car Dataset
 - First-owner vehicles dominate the dataset.
 
 ## Dashboard
-(storagelemulated/O/Documents/
-Image to PDF Converter/
-Car-Dekho-Dashboard.pdf)
-
 
