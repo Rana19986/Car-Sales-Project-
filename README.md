@@ -18,5 +18,8 @@ CarDekho Used Car Dataset
 - Most listed cars are manual transmission.
 - First-owner vehicles dominate the dataset.
 
+
 ## Dashboard
+
+![CarDekho Dashboard](Car-Dekho-Dashboard.pdf)
 
