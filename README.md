@@ -16,10 +16,7 @@ CarDekho Used Car Dataset
 ## Key Insights
 - Diesel cars have higher average selling prices.
 - Most listed cars are manual transmission.
-- First-owner vehicles dominate the dataset.
-
-
-## Dashboard
-
-![CarDekho Dashboard](Car-Dekho-Dashboard.pdf)
+- First-owner vehicles dominate the dataset
+- ## Dashboard
+![CarDekho Dashboard](Car-Dekho-Dashboard-1.png)
 
